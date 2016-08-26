@@ -36,7 +36,6 @@ gem 'animate-rails', '~> 1.0', '>= 1.0.10'
 
 gem 'owlcarousel-rails', '~> 1.1', '>= 1.1.3.3'
 
-gem 'rails_12factor', group: :production
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
