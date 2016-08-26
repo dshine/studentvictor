@@ -1,0 +1,62 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+//#aboutme {
+  //  background-color: red; color: white; height: 400px;
+//}
+.parallax {
+    /* The image used */
+    background-image: url("ak.jpg");
+
+    /* Full height */
+    height: 100px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax2 {
+    /* The image used */
+    background-image: url('potsplatz1.jpg');
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.full-width-div {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.clearbackground {
+  background-color: white;
+  width: 100%
+}
+
+.namefont {
+  font-size: 0.8000em; /* 24px */
+  line-height: 1.5000em; /* 36px */
+  margin-top: 0.7500em;  margin-bottom: 0.0000em;
+}
+
+.bg1 { background-color: green;}
+
+
+
+.inlyn {
+  display:inline;
+}
+
+.bg2 {
+  background-color: grey;
+}

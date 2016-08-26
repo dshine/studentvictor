@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails mypage: development" uuid="3ff3912f-1dee-4599-b905-39a5ba63a305">
+      <schema-pattern>mypage_development.*</schema-pattern>
+      <default-schemas>mypage_development.*</default-schemas>
+    </data-source>
+    <data-source name="Rails mypage: test" uuid="4e1f4d31-8f25-404b-9f4d-75b5fe49d334" />
+    <data-source name="Rails mypage: production" uuid="d6b6c199-6a68-4ddb-9aef-bbc568a15834">
+      <user-name>mypage</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe7dff3dffadfebdfeddfefdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
