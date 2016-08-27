@@ -62,7 +62,12 @@
   margin-top: 0.7500em;  margin-bottom: 0.0000em;
 }
 
-.bg1 { background-color: green;}
+.bg1 {
+  background-color: green;
+  text-align: center;
+  height: 350px;
+  background-image: url(bg-img.jpg);
+}
 
 
 
